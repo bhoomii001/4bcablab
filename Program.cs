@@ -11,7 +11,7 @@ namespace _4bcablab
         static void Main(string[] args)
         {
             Console.Write("hello");
-            Console.Write("bhoomi dangar");
+            Console.Write("bhoomi lokhil");
             Console.Read();
         }
     }
